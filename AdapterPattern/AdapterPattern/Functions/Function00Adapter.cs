@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace AdapterPattern.Functions
 {
-    internal class Function00Adapter : IFunctions
+    public class Function00Adapter : IFunctions
     {
-        //
         private ExternalFunction.Function00 _func00 = new ExternalFunction.Function00();
 
         public int GetResult()
