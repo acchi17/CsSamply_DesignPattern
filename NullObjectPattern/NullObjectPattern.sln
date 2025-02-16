@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObjectPattern", "NullObjectPattern\NullObjectPattern.csproj", "{178925A2-8507-4355-BE9A-9CF7E5E80026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Debug|x64.ActiveCfg = Debug|x64
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Debug|x64.Build.0 = Debug|x64
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Release|x64.ActiveCfg = Release|x64
+		{178925A2-8507-4355-BE9A-9CF7E5E80026}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1C8869-9EE7-43DF-AD54-595B90271D8C}
+	EndGlobalSection
+EndGlobal
